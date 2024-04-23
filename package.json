@@ -1,0 +1,23 @@
+{
+  "name": "prod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajeshrajesh12/PRD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajeshrajesh12/PRD.git"
+  },
+  "homepage": "https://github.com/Rajeshrajesh12/PRD#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
